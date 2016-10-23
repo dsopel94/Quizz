@@ -1,0 +1,27 @@
+body { 
+width:550px;
+margin:20px auto;
+background-image:url(http://www.pinnacledrafting.com.au/wp-content/uploads/2015/11/Beige-Background.jpg);
+}
+
+h1,h3,html {
+ font-family:"Helvetica", "Hiragino Kaku Gothic Pro","Open Sans";
+ text-align:center;
+}
+
+button {
+    background: #2ECC71;
+    color: #FFFFFF;
+    cursor: pointer;
+    letter-spacing: 1px;
+    padding: 10px 0;
+border-radius: 50px;
+border: 3px solid #fff;
+color: #fff;
+width:100%;
+font-weight: 700;
+}
+
+#feedback {
+	font-size: 14pt;
+}
